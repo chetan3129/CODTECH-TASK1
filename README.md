@@ -5,7 +5,7 @@
 **Duration:** July to August 2024
 **Mentor:** N.Santhosh Kumar
 
-**Project:** California Housing Price Prediction
+**Project:**  Housing Price Prediction using LINEAR REGRESSION
 
 **Objective:** To develop a machine learning model that accurately predicts median house values in California based on key features.
 
