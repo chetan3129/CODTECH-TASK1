@@ -1,8 +1,13 @@
 **Name:** CHENNURU CHETAN SAI
+
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT8ML1526
+
 **Domain:** Machine Learning
+
 **Duration:** July to August 2024
+
 **Mentor:** N.Santhosh Kumar
 
 **Project:**  Housing Price Prediction using LINEAR REGRESSION
